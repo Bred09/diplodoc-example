@@ -1,5 +1,7 @@
 title: Documentation Template
 links:
+  - title: Swagger Petstore API
+    href: petstore-api-draft/
   - title: About
     href: about.md
   - title: Diplodoc page on index page
